@@ -10,3 +10,4 @@ Disallow: /backup/
 Disallow: /private/
 
 Allow: /
+Sitemap: https://ligyxa.github.io/tochnonajabeda//sitemap.xml
