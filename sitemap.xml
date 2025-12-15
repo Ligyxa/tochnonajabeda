@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
-    <!-- Главная страница -->
     <url>
         <loc>https://ligyxa.github.io/tochnonajabeda/</loc>
         <lastmod>2024-01-15</lastmod>
@@ -9,7 +8,6 @@
         <priority>0.8</priority>
     </url>
     
-    <!-- Страница "Огурец" -->
     <url>
         <loc>https://ligyxa.github.io/tochnonajabeda/cucumber.html</loc>
         <lastmod>2024-01-15</lastmod>
@@ -17,7 +15,6 @@
         <priority>0.5</priority>
     </url>
     
-    <!-- Страница "Барабан" -->
     <url>
         <loc>https://ligyxa.github.io/tochnonajabeda/dumbs.html</loc>
         <lastmod>2024-01-15</lastmod>
@@ -25,7 +22,6 @@
         <priority>0.5</priority>
     </url>
     
-    <!-- Страница "Шоколад" -->
     <url>
         <loc>https://ligyxa.github.io/tochnonajabeda/choco.html</loc>
         <lastmod>2024-01-15</lastmod>
@@ -33,7 +29,6 @@
         <priority>0.5</priority>
     </url>
     
-    <!-- Страница "Огурец+Муха" -->
     <url>
         <loc>https://ligyxa.github.io/tochnonajabeda/fly.html</loc>
         <lastmod>2024-01-15</lastmod>
@@ -41,7 +36,6 @@
         <priority>0.5</priority>
     </url>
     
-    <!-- CSS файл -->
     <url>
         <loc>https://ligyxa.github.io/tochnonajabeda/style1.css</loc>
         <lastmod>2024-01-15</lastmod>
@@ -49,12 +43,10 @@
         <priority>0.3</priority>
     </url>
     
-    <!-- JavaScript файл -->
     <url>
         <loc>https://ligyxa.github.io/tochnonajabeda/js/script.js</loc>
         <lastmod>2024-01-15</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.3</priority>
     </url>
-    
 </urlset>
